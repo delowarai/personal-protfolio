@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Mohammad Delowar Hossain**, an aspiring AI/ML Engineer based in Dhaka, Bangladesh, focused on LLMs, AI agents, RAG pipelines, and full-stack development.
 
-🔗 **Live Site:** [portfolio-delowarhossain.vercel.app](https://engr-delowar.vercel.app)
+🔗 **Live Site:** [engr-delowar.vercel.app](https://engr-delowar.vercel.app)
 
 ![Tech Stack](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
