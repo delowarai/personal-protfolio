@@ -18,22 +18,22 @@ This is a single-page portfolio built to showcase my background, skills, and pro
 
 ## 🗂️ Sections
 
-- **Hero** — introduction and quick links
-- **About** — background and current focus
-- **What I Bring** — core strengths (AI agents, RAG, full-stack, computer vision)
-- **Skills** — AI/ML, backend, and language/tooling stack
-- **Projects** — featured AI/ML projects
-- **Experience** — work history and internships
-- **FAQ** — common questions about availability and stack
-- **Contact** — email, LinkedIn, GitHub
+- **Hero** : introduction and quick links
+- **About** : background and current focus
+- **What I Bring** : core strengths (AI agents, RAG, full-stack, computer vision)
+- **Skills** : AI/ML, backend, and language/tooling stack
+- **Projects** : featured AI/ML projects
+- **Experience** : work history and internships
+- **FAQ** : common questions about availability and stack
+- **Contact** : email, LinkedIn, GitHub
 
 ## 🛠️ Built With
 
 - [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/) — build tool
-- [Tailwind CSS](https://tailwindcss.com/) — styling
-- [shadcn/ui](https://ui.shadcn.com/) — component library
-- [Radix UI Icons](https://www.radix-ui.com/icons) & [Lucide](https://lucide.dev/) — icons
+- [Vite](https://vitejs.dev/) : build tool
+- [Tailwind CSS](https://tailwindcss.com/) : styling
+- [shadcn/ui](https://ui.shadcn.com/) : component library
+- [Radix UI Icons](https://www.radix-ui.com/icons) & [Lucide](https://lucide.dev/) : icons
 
 ## ✨ Features
 
